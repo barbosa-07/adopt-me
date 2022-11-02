@@ -3,3 +3,6 @@
 npm run lint -- --debug   
 >> vite
 npm install -D vite @vitejs/plugin-react 
+>> jsx
+
+npm install -D eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
