@@ -1,3 +1,5 @@
 # helpful command
 >> eslint
-npm run lint -- --debug    
+npm run lint -- --debug   
+>> vite
+npm install -D vite @vitejs/plugin-react 
