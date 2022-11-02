@@ -1,0 +1,3 @@
+# helpful command
+>> eslint
+npm run lint -- --debug    
